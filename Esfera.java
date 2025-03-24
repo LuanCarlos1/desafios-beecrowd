@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class esfera {
+public class Esfera {
 
     public static void main(String[] args) {
 
