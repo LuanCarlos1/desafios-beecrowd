@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class somaDoisValores {
+public class SomaDoisValores {
 
     public static void main(String[] args) {
 
