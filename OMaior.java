@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class oMaior {
+public class OMaior {
 
     public static void main(String[] args) {
 
